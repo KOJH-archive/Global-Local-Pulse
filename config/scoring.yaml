@@ -1,0 +1,10 @@
+# Search behavior is the primary ranking signal. Media signals provide context.
+public_weights: {search: 0.70, breadth: 0.30}
+media_weights: {coverage: 0.60, diversity: 0.25, persistence: 0.15}
+ranking: public_interest_first
+cache_minutes: 30
+max_trend_queries: 6
+max_articles_per_publisher: 2
+lexical_threshold: 0.48
+embedding_threshold: 0.82
+min_publishers: 2

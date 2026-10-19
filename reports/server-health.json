@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/_stcore/health",
+    "status": 200,
+    "body": "ok"
+  },
+  {
+    "path": "/",
+    "status": 200,
+    "html": true
+  }
+]

@@ -1,0 +1,84 @@
+KR:
+  name: 대한민국
+  flag: 🇰🇷
+  language: ko
+  hl: ko
+  gl: KR
+  ceid: KR:ko
+  gdelt: South Korea
+  gdelt_code: KS
+  fallback_rss:
+  - name: 연합뉴스
+    url: https://www.yna.co.kr/rss/news.xml
+  - name: SBS
+    url: https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01
+US:
+  name: 미국
+  flag: 🇺🇸
+  language: en
+  hl: en-US
+  gl: US
+  ceid: US:en
+  gdelt: United States
+  gdelt_code: US
+  fallback_rss:
+  - name: NPR
+    url: https://feeds.npr.org/1001/rss.xml
+  - name: PBS
+    url: https://www.pbs.org/newshour/feeds/rss/headlines
+JP:
+  name: 일본
+  flag: 🇯🇵
+  language: ja
+  hl: ja
+  gl: JP
+  ceid: JP:ja
+  gdelt: Japan
+  gdelt_code: JA
+  fallback_rss:
+  - name: NHK
+    url: https://www3.nhk.or.jp/rss/news/cat0.xml
+  - name: 朝日新聞
+    url: https://www.asahi.com/rss/asahi/newsheadlines.rdf
+GB:
+  name: 영국
+  flag: 🇬🇧
+  language: en
+  hl: en-GB
+  gl: GB
+  ceid: GB:en
+  gdelt: United Kingdom
+  gdelt_code: UK
+  fallback_rss:
+  - name: BBC
+    url: https://feeds.bbci.co.uk/news/uk/rss.xml
+  - name: The Guardian
+    url: https://www.theguardian.com/uk-news/rss
+DE:
+  name: 독일
+  flag: 🇩🇪
+  language: de
+  hl: de
+  gl: DE
+  ceid: DE:de
+  gdelt: Germany
+  gdelt_code: GM
+  fallback_rss:
+  - name: tagesschau
+    url: https://www.tagesschau.de/xml/rss2
+  - name: DER SPIEGEL
+    url: https://www.spiegel.de/schlagzeilen/index.rss
+FR:
+  name: 프랑스
+  flag: 🇫🇷
+  language: fr
+  hl: fr
+  gl: FR
+  ceid: FR:fr
+  gdelt: France
+  gdelt_code: FR
+  fallback_rss:
+  - name: Le Monde
+    url: https://www.lemonde.fr/rss/une.xml
+  - name: franceinfo
+    url: https://www.francetvinfo.fr/titres.rss

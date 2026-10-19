@@ -1,0 +1,2932 @@
+{
+  "generated_at": "2026-10-19T09:14:11.919355+00:00",
+  "window": {
+    "start": "2026-10-14T15:00:00+00:00",
+    "end": "2026-10-19T09:13:19.427422+00:00",
+    "reference": "2026-10-19",
+    "mode": "recent",
+    "days": 5,
+    "clipped_future": true
+  },
+  "countries": [
+    {
+      "country": "KR",
+      "name": "대한민국",
+      "flag": "🇰🇷",
+      "window_key": "2026-10-19:recent:5",
+      "window": {
+        "start": "2026-10-14T15:00:00+00:00",
+        "end": "2026-10-19T09:13:19.427422+00:00",
+        "reference": "2026-10-19",
+        "mode": "recent",
+        "days": 5,
+        "clipped_future": true
+      },
+      "collected_at": "2026-10-19T09:13:56.842041+00:00",
+      "cache_state": "live",
+      "issues": [
+        {
+          "id": "5da5d7e28c32643a38a6",
+          "title": "코스피 급락에 ‘3천억 원’ 강제 청산…국민연금은 182조 증발 [잇슈 머니]",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "코스피",
+              "country": "KR",
+              "traffic": "10000+",
+              "traffic_floor": 10000.0,
+              "started_at": "2026-10-19T07:50:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.463975+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=KR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "코스피 급락에 ‘3천억 원’ 강제 청산…국민연금은 182조 증발 [잇슈 머니]",
+                  "url": "https://news.kbs.co.kr/news/view.do?ncd=8688598",
+                  "publisher": "KBS 뉴스",
+                  "published_at": null
+                },
+                {
+                  "title": "오늘의 프리미엄9 콘텐츠 다이제스트(10월 19일)",
+                  "url": "https://www.hankyung.com/article/202610191366i",
+                  "publisher": "한국경제",
+                  "published_at": null
+                },
+                {
+                  "title": "5700피 회복, 반등 신호?…\"매수 버튼서 손 떼시오\" 안심 말라는 이유 - 머니투데이",
+                  "url": "https://www.mt.co.kr/stock/2026/10/19/2026101916075372592",
+                  "publisher": "머니투데이",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 10000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.463975+00:00",
+              "keyword": "코스피",
+              "traffic": "10000+",
+              "lower_bound": 10000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 1,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "ffd32dfe7eb9578d7c1a",
+          "title": "‘이 대통령 명예훼손’ 모스 탄, 수임료 둘러싸고 변호인단 해임 갈등",
+          "articles": [],
+          "category": "정치·정책",
+          "trends": [
+            {
+              "keyword": "모스 탄",
+              "country": "KR",
+              "traffic": "2000+",
+              "traffic_floor": 2000.0,
+              "started_at": "2026-10-19T07:10:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.464011+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=KR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "‘이 대통령 명예훼손’ 모스 탄, 수임료 둘러싸고 변호인단 해임 갈등",
+                  "url": "https://www.khan.co.kr/article/202610191525001",
+                  "publisher": "경향신문",
+                  "published_at": null
+                },
+                {
+                  "title": "이재명 대통령 명예훼손 혐의 모스 탄, 첫 공판 출석",
+                  "url": "https://www.yna.co.kr/view/PYH20261016046100013",
+                  "publisher": "연합뉴스",
+                  "published_at": null
+                },
+                {
+                  "title": "모스 탄 전 변호인단 “李 소년원 의혹 뒷받침할 증거 못 받아…입증 어려워”",
+                  "url": "https://news.kbs.co.kr/news/view.do?ncd=8688978",
+                  "publisher": "KBS 뉴스",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 87.8,
+          "score_label": "대중 관심도",
+          "public_interest_score": 87.8,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.8253028119956247,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 2000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.464011+00:00",
+              "keyword": "모스 탄",
+              "traffic": "2000+",
+              "lower_bound": 2000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 2,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "70942c86aa418be4bce4",
+          "title": "‘전역모 논란’ 박승수, 17분 뛰고 군면제…0분 출전 선수도? [잇슈#태그]",
+          "articles": [],
+          "category": "문화·스포츠",
+          "trends": [
+            {
+              "keyword": "병역",
+              "country": "KR",
+              "traffic": "1000+",
+              "traffic_floor": 1000.0,
+              "started_at": "2026-10-19T08:00:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.463947+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=KR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "‘전역모 논란’ 박승수, 17분 뛰고 군면제…0분 출전 선수도? [잇슈#태그]",
+                  "url": "https://news.kbs.co.kr/news/view.do?ncd=8689004",
+                  "publisher": "KBS 뉴스",
+                  "published_at": null
+                },
+                {
+                  "title": "“1분도 안뛰고 군 면제 받아?”…아시안게임 축구대표팀 7명 ‘1시간 미만’",
+                  "url": "https://www.mk.co.kr/news/politics/12179363",
+                  "publisher": "매일경제",
+                  "published_at": null
+                },
+                {
+                  "title": "[프리즘] 스포츠 경쟁력 달라졌는데…설상가상 태도 논란까지",
+                  "url": "https://www.yna.co.kr/view/MYH20261018002700038",
+                  "publisher": "연합뉴스",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 82.5,
+          "score_label": "대중 관심도",
+          "public_interest_score": 82.5,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.7501003756656573,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 1000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.463947+00:00",
+              "keyword": "병역",
+              "traffic": "1000+",
+              "lower_bound": 1000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 3,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "72816d6dd0384e58ede0",
+          "title": "울산 택배노조 \"롯데택배 대리점주가 특정 노조 가입 강요\"",
+          "articles": [
+            {
+              "id": "677a8f0a4cbd5c222eba",
+              "country": "KR",
+              "title": "울산 택배노조 \"롯데택배 대리점주가 특정 노조 가입 강요\"",
+              "url": "https://www.yna.co.kr/view/AKR20261019152800057",
+              "publisher": "연합뉴스",
+              "publisher_id": "www.yna.co.kr",
+              "publisher_url": "https://www.yna.co.kr/rss/news.xml",
+              "publisher_verified": true,
+              "published_at": "2026-10-19T08:21:57+00:00",
+              "collected_at": "2026-10-19T09:13:51.532246+00:00",
+              "source": "현지 공개 RSS"
+            }
+          ],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "택배",
+              "country": "KR",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T07:20:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.464000+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=KR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "제주 택배 추가배송비 지원 예산 94% 소진…\"신청 서두르세요\"",
+                  "url": "https://www.yna.co.kr/view/AKR20261019047100056",
+                  "publisher": "연합뉴스",
+                  "published_at": null
+                },
+                {
+                  "title": "제주도, ‘섬 추가 택배비’ 3천원씩 지원…올 예산 94% 조기 소진",
+                  "url": "https://www.hani.co.kr/arti/area/jeju/1283003.html",
+                  "publisher": "한겨레",
+                  "published_at": null
+                },
+                {
+                  "title": "제주도민 택배 추가배송비 지원 94% 소진…\"신청 서둘러야\"",
+                  "url": "https://www.newsis.com/view/NISX20261019_0003831336",
+                  "publisher": "뉴시스",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "score": 77.2,
+          "score_label": "대중 관심도",
+          "public_interest_score": 77.2,
+          "media_attention_score": 60.8,
+          "metrics": {
+            "search": 0.674952103633843,
+            "breadth": 1.0,
+            "coverage": 0.5,
+            "diversity": 0.6309297535714575,
+            "persistence": 1.0
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": 1,
+            "diversity": 1,
+            "persistence": 1
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 1.0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 1,
+          "publisher_count": 1,
+          "coverage_change": null,
+          "news_series": [
+            {
+              "date": "2026-10-19",
+              "count": 1
+            }
+          ],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.464000+00:00",
+              "keyword": "택배",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 4,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "828b6f1995fa0a79b59e",
+          "title": "최원호 감독, 한국 야구대표팀 사령탑 선임…내달 APBC 지휘",
+          "articles": [
+            {
+              "id": "169907535bc78f0d1b93",
+              "country": "KR",
+              "title": "최원호 감독, 한국 야구대표팀 사령탑 선임…내달 APBC 지휘",
+              "url": "https://www.yna.co.kr/view/AKR20261019146400007",
+              "publisher": "연합뉴스",
+              "publisher_id": "www.yna.co.kr",
+              "publisher_url": "https://www.yna.co.kr/rss/news.xml",
+              "publisher_verified": true,
+              "published_at": "2026-10-19T07:47:15+00:00",
+              "collected_at": "2026-10-19T09:13:51.533158+00:00",
+              "source": "현지 공개 RSS"
+            }
+          ],
+          "category": "문화·스포츠",
+          "trends": [
+            {
+              "keyword": "최원호",
+              "country": "KR",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T07:00:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.464025+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=KR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "아시아 프로야구 챔피언십 사령탑에 최원호 전 감독",
+                  "url": "https://www.ytn.co.kr/_ln/0107_202610191720429147",
+                  "publisher": "YTN",
+                  "published_at": null
+                },
+                {
+                  "title": "최원호 감독, 한국 야구대표팀 사령탑 선임…내달 APBC 지휘",
+                  "url": "https://www.yna.co.kr/view/AKR20261019146400007",
+                  "publisher": "연합뉴스",
+                  "published_at": null
+                },
+                {
+                  "title": "'리그 1위' 한화 좌완, 생애 첫 태극마크 감격 \"국가대표 가보고 싶었는데 행복해…좋은 모습 보이겠다\"",
+                  "url": "https://www.osen.co.kr/article/G1112894844",
+                  "publisher": "OSEN",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "score": 77.2,
+          "score_label": "대중 관심도",
+          "public_interest_score": 77.2,
+          "media_attention_score": 60.8,
+          "metrics": {
+            "search": 0.674952103633843,
+            "breadth": 1.0,
+            "coverage": 0.5,
+            "diversity": 0.6309297535714575,
+            "persistence": 1.0
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": 1,
+            "diversity": 1,
+            "persistence": 1
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 1.0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 1,
+          "publisher_count": 1,
+          "coverage_change": null,
+          "news_series": [
+            {
+              "date": "2026-10-19",
+              "count": 1
+            }
+          ],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.464025+00:00",
+              "keyword": "최원호",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 5,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        }
+      ],
+      "article_count": 148,
+      "raw_article_count": 149,
+      "trend_count": 10,
+      "publisher_count": 2,
+      "statuses": [
+        {
+          "source": "GDELT 기사 목록",
+          "state": "not_collected",
+          "count": 0,
+          "detail": "기존 저장 증거 재처리본이라 GDELT 재수집은 수행하지 않았습니다. 새로고침 시 GDELT를 우선 시도합니다.",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+          "collected_at": "2026-10-19T09:13:56.842041+00:00"
+        },
+        {
+          "source": "Google Trends",
+          "state": "ok",
+          "count": 10,
+          "detail": "현재 RSS 관측만 제공; 과거 검색량 복원·0값 대체 없음",
+          "url": "https://trends.google.com/trending/rss?geo=KR",
+          "collected_at": "2026-10-19T09:13:26.464072+00:00"
+        },
+        {
+          "source": "연합뉴스 RSS",
+          "state": "ok",
+          "count": 120,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://www.yna.co.kr/rss/news.xml",
+          "collected_at": "2026-10-19T09:13:51.533809+00:00"
+        },
+        {
+          "source": "SBS RSS",
+          "state": "ok",
+          "count": 29,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01",
+          "collected_at": "2026-10-19T09:13:56.719539+00:00"
+        }
+      ],
+      "clustering_method": "문자·단어 유사도",
+      "clustering_warning": null,
+      "rankable_count": 14,
+      "limited_coverage": true,
+      "ranking_basis": "public_interest_first",
+      "ranking_note": "검색 급상승을 주 순위 기준으로 사용하고 GDELT·현지 RSS 보도는 맥락·교차검증으로 표시합니다."
+    },
+    {
+      "country": "US",
+      "name": "미국",
+      "flag": "🇺🇸",
+      "window_key": "2026-10-19:recent:5",
+      "window": {
+        "start": "2026-10-14T15:00:00+00:00",
+        "end": "2026-10-19T09:13:19.427422+00:00",
+        "reference": "2026-10-19",
+        "mode": "recent",
+        "days": 5,
+        "clipped_future": true
+      },
+      "collected_at": "2026-10-19T09:13:57.460808+00:00",
+      "cache_state": "live",
+      "issues": [
+        {
+          "id": "18077d8dbee2379f2a62",
+          "title": "Social Security Announces 3.6 Percent Benefit Increase for 2027",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "va",
+              "country": "US",
+              "traffic": "2000+",
+              "traffic_floor": 2000.0,
+              "started_at": "2026-10-19T08:30:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.962460+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=US",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Social Security Announces 3.6 Percent Benefit Increase for 2027",
+                  "url": "https://www.ssa.gov/news/en/press/releases/2026-10-14.html",
+                  "publisher": "Social Security Administration (.gov)",
+                  "published_at": null
+                },
+                {
+                  "title": "The Social Security COLA for 2027 is set. Here's what experts say you need to know",
+                  "url": "https://www.pbs.org/newshour/economy/what-is-the-social-security-cola-for-2027-heres-how-it-could-affect-you",
+                  "publisher": "PBS",
+                  "published_at": null
+                },
+                {
+                  "title": "VA disability checks could get bigger in 2027. Here's how much.",
+                  "url": "https://finance.yahoo.com/personal-finance/investing/article/va-disability-checks-could-get-bigger-in-2027-heres-how-much-202927853.html",
+                  "publisher": "Yahoo Finance",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 2000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.962460+00:00",
+              "keyword": "va",
+              "traffic": "2000+",
+              "lower_bound": 2000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 1,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "98c5dcb2bcf467e60f14",
+          "title": "The Legend of Zelda: Ocarina of Time Remake on Switch 2 is far from a 1:1 remake, instead adding depth and texture that makes this beloved adventure feel instantly fresh.",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "ocarina of time remake switch 2",
+              "country": "US",
+              "traffic": "2000+",
+              "traffic_floor": 2000.0,
+              "started_at": "2026-10-19T07:50:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.962486+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=US",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "The Legend of Zelda: Ocarina of Time Remake on Switch 2 is far from a 1:1 remake, instead adding depth and texture that makes this beloved adventure feel instantly fresh.",
+                  "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-more-different-than-you-think-ign-preview",
+                  "publisher": "IGN",
+                  "published_at": null
+                },
+                {
+                  "title": "You have been summoned to watch the new Legend of Zelda: Ocarina of Time — Overview Trailer!",
+                  "url": "https://www.nintendo.com/us/whatsnew/you-have-been-summoned-to-watch-the-new-legend-of-zelda-ocarina-of-time-overview-trailer/",
+                  "publisher": "Nintendo",
+                  "published_at": null
+                },
+                {
+                  "title": "The Legend of Zelda: Ocarina of Time (2026) Preview: A Beautiful Step Back In Time",
+                  "url": "https://gameinformer.com/preview/2026/10/14/a-beautiful-step-back-in-time",
+                  "publisher": "Game Informer",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 2000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.962486+00:00",
+              "keyword": "ocarina of time remake switch 2",
+              "traffic": "2000+",
+              "lower_bound": 2000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 2,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "a6d68f86dae159e25f1b",
+          "title": "Tennis bad boy batters racket and cuts hand… then wins",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "katie boulter",
+              "country": "US",
+              "traffic": "1000+",
+              "traffic_floor": 1000.0,
+              "started_at": "2026-10-19T07:40:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.962494+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=US",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Tennis bad boy batters racket and cuts hand… then wins",
+                  "url": "https://www.telegraph.co.uk/tennis/2026/10/12/tennis-bad-boy-batters-racket-and-cuts-hand-then-wins/",
+                  "publisher": "The Telegraph",
+                  "published_at": null
+                },
+                {
+                  "title": "Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns",
+                  "url": "https://sports.yahoo.com/articles/andy-roddick-unfiltered-frances-tiafoe-200423404.html",
+                  "publisher": "Yahoo Sports",
+                  "published_at": null
+                },
+                {
+                  "title": "October 20, 2026: Maya Joint vs Zeynep Sonmez: Set 2 Winner Tennis Prediction Market",
+                  "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/maya-joint-vs-zeynep-sonmez-set-2-winner-oct-20-2026/",
+                  "publisher": "Robinhood",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 93.6,
+          "score_label": "대중 관심도",
+          "public_interest_score": 93.6,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.9088789772227674,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 1000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.962494+00:00",
+              "keyword": "katie boulter",
+              "traffic": "1000+",
+              "lower_bound": 1000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 3,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "6e302d29948e1a255329",
+          "title": "Strait of Hormuz crisis traps 6,000 sailors as attacks on ships mount, UN maritime chief says",
+          "articles": [],
+          "category": "국제·안보",
+          "trends": [
+            {
+              "keyword": "strait of hormuz news",
+              "country": "US",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T08:30:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.962450+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=US",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Strait of Hormuz crisis traps 6,000 sailors as attacks on ships mount, UN maritime chief says",
+                  "url": "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says",
+                  "publisher": "Fox News",
+                  "published_at": null
+                },
+                {
+                  "title": "IMO records 113 incidents in Strait of Hormuz area — Cyprus Mail",
+                  "url": "https://ua.news/en/world/imo-zafiksuvala-113-intsidentiv-u-raioni-ormuzkoyi-protoki-cyprus-mail",
+                  "publisher": "UA.NEWS",
+                  "published_at": null
+                },
+                {
+                  "title": "Iran grain trade shrugs off US blockade as Hormuz bulker traffic stays resilient",
+                  "url": "https://www.lloydslist.com/LL1158685/Iran-grain-trade-shrugs-off-US-blockade-as-Hormuz-bulker-traffic-stays-resilient",
+                  "publisher": "Lloyd's List",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 87.2,
+          "score_label": "대중 관심도",
+          "public_interest_score": 87.2,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.8178235840512574,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.962450+00:00",
+              "keyword": "strait of hormuz news",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 4,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "a5667954c02abde6cd34",
+          "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "spacex falcon 9 rocket launch",
+              "country": "US",
+              "traffic": "200+",
+              "traffic_floor": 200.0,
+              "started_at": "2026-10-19T08:00:00+00:00",
+              "collected_at": "2026-10-19T09:13:26.962477+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=US",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+                  "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
+                  "publisher": "Spaceflight Now",
+                  "published_at": null
+                },
+                {
+                  "title": "SpaceX Flies 2,100kg Starfall Capsule on Bandwagon-5 [2026]",
+                  "url": "https://tech-insider.org/spacex-starfall-capsule-bandwagon-5-launch-2026/",
+                  "publisher": "https://tech-insider.org/",
+                  "published_at": null
+                },
+                {
+                  "title": "SpaceX to launch Starfall return capsule for the second time on Bandwagon-5 mission tomorrow",
+                  "url": "https://starlust.org/spacex-starfall-netizens-spot-secret-return-vehicle-launching-on-bandwagon-5-mission-tomorrow/",
+                  "publisher": "Starlust.org",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 78.8,
+          "score_label": "대중 관심도",
+          "public_interest_score": 78.8,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.6976745440681235,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 200.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:26.962477+00:00",
+              "keyword": "spacex falcon 9 rocket launch",
+              "traffic": "200+",
+              "lower_bound": 200.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 5,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        }
+      ],
+      "article_count": 29,
+      "raw_article_count": 30,
+      "trend_count": 10,
+      "publisher_count": 2,
+      "statuses": [
+        {
+          "source": "GDELT 기사 목록",
+          "state": "not_collected",
+          "count": 0,
+          "detail": "기존 저장 증거 재처리본이라 GDELT 재수집은 수행하지 않았습니다. 새로고침 시 GDELT를 우선 시도합니다.",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+          "collected_at": "2026-10-19T09:13:57.460808+00:00"
+        },
+        {
+          "source": "Google Trends",
+          "state": "ok",
+          "count": 10,
+          "detail": "현재 RSS 관측만 제공; 과거 검색량 복원·0값 대체 없음",
+          "url": "https://trends.google.com/trending/rss?geo=US",
+          "collected_at": "2026-10-19T09:13:26.962555+00:00"
+        },
+        {
+          "source": "NPR RSS",
+          "state": "ok",
+          "count": 10,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "collected_at": "2026-10-19T09:13:54.433261+00:00"
+        },
+        {
+          "source": "PBS RSS",
+          "state": "ok",
+          "count": 20,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://www.pbs.org/newshour/feeds/rss/headlines",
+          "collected_at": "2026-10-19T09:13:57.444876+00:00"
+        }
+      ],
+      "clustering_method": "문자·단어 유사도",
+      "clustering_warning": null,
+      "rankable_count": 11,
+      "limited_coverage": true,
+      "ranking_basis": "public_interest_first",
+      "ranking_note": "검색 급상승을 주 순위 기준으로 사용하고 GDELT·현지 RSS 보도는 맥락·교차검증으로 표시합니다."
+    },
+    {
+      "country": "JP",
+      "name": "일본",
+      "flag": "🇯🇵",
+      "window_key": "2026-10-19:recent:5",
+      "window": {
+        "start": "2026-10-14T15:00:00+00:00",
+        "end": "2026-10-19T09:13:19.427422+00:00",
+        "reference": "2026-10-19",
+        "mode": "recent",
+        "days": 5,
+        "clipped_future": true
+      },
+      "collected_at": "2026-10-19T09:14:03.093874+00:00",
+      "cache_state": "live",
+      "issues": [
+        {
+          "id": "9979e9de3784f50674a5",
+          "title": "『豊臣兄弟！』あさひ犠牲の天正地震の悲劇は序章にすぎない！豊臣の権威を砕く「二度目の大地震」という絶望",
+          "articles": [],
+          "category": "기후·환경",
+          "trends": [
+            {
+              "keyword": "旭 姫",
+              "country": "JP",
+              "traffic": "2000+",
+              "traffic_floor": 2000.0,
+              "started_at": "2026-10-19T08:40:00+00:00",
+              "collected_at": "2026-10-19T09:13:27.557076+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=JP",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "『豊臣兄弟！』あさひ犠牲の天正地震の悲劇は序章にすぎない！豊臣の権威を砕く「二度目の大地震」という絶望",
+                  "url": "https://mag.japaaan.com/archives/290719",
+                  "publisher": "Japaaan",
+                  "published_at": null
+                },
+                {
+                  "title": "地震が秀吉と家康の運命を変えた？ 天下人を揺さぶった大地震（テレビ朝日系（ANN））",
+                  "url": "https://news.yahoo.co.jp/articles/7cdfc6205ae4988390a76428adec2f502f5fa409",
+                  "publisher": "Yahoo!ニュース",
+                  "published_at": null
+                },
+                {
+                  "title": "天正地震が秀吉の家康討伐を阻んだ？ 歴史研究家・市橋章男氏が解説する旭姫の政略結婚に隠された真相",
+                  "url": "https://news.livedoor.com/article/detail/32597260/",
+                  "publisher": "ライブドアニュース",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 2000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:27.557076+00:00",
+              "keyword": "旭 姫",
+              "traffic": "2000+",
+              "lower_bound": 2000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 1,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "0305fdb93a6d3d88999c",
+          "title": "広島・坂倉 熟考中の国内ＦＡ権行使について「監督、選手から言ってもらった」新井監督「悔いのない決断を」（デイリースポーツ）",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "フリーエージェント",
+              "country": "JP",
+              "traffic": "1000+",
+              "traffic_floor": 1000.0,
+              "started_at": "2026-10-19T08:40:00+00:00",
+              "collected_at": "2026-10-19T09:13:27.557069+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=JP",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "広島・坂倉 熟考中の国内ＦＡ権行使について「監督、選手から言ってもらった」新井監督「悔いのない決断を」（デイリースポーツ）",
+                  "url": "https://news.yahoo.co.jp/articles/f88bc9e851a75842ab17f6a0862082ed7279289e",
+                  "publisher": "Yahoo!ニュース",
+                  "published_at": null
+                },
+                {
+                  "title": "NPBがFA有資格者104人を公示 国内は床田寛樹、坂倉将吾ら 海外は佐野恵太、高橋光成ら",
+                  "url": "https://www.nikkansports.com/baseball/news/202610190001070.html",
+                  "publisher": "日刊スポーツ",
+                  "published_at": null
+                },
+                {
+                  "title": "広島・森下、ロッテ・小島、オリックス・中川…2026年度のフリーエージェント有資格選手名簿を公示",
+                  "url": "https://baseballking.jp/ns/710245/",
+                  "publisher": "BASEBALL KING",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 93.6,
+          "score_label": "대중 관심도",
+          "public_interest_score": 93.6,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.9088789772227674,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 1000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:27.557069+00:00",
+              "keyword": "フリーエージェント",
+              "traffic": "1000+",
+              "lower_bound": 1000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 2,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "1701912e50afa46208a5",
+          "title": "節目を迎える『VALORANT』eスポーツ。Riot Gamesに聞く、リーグ4年の歩みと新形式の展望",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "crazy raccoon",
+              "country": "JP",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T08:30:00+00:00",
+              "collected_at": "2026-10-19T09:13:27.557101+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=JP",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "節目を迎える『VALORANT』eスポーツ。Riot Gamesに聞く、リーグ4年の歩みと新形式の展望",
+                  "url": "https://news.mynavi.jp/article/20261016-5138900/",
+                  "publisher": "マイナビニュース",
+                  "published_at": null
+                },
+                {
+                  "title": "Crazy RaccoonがVCT PACIFIC 2027-2028のパートナーチームに選出と報道、約3年ぶりにVALORANTへ復帰か",
+                  "url": "https://www.valorant4jp.com/2026/10/crazy-raccoonvct-pacific-2027.html",
+                  "publisher": "VALORANT4JP",
+                  "published_at": null
+                },
+                {
+                  "title": "『VALORANT Champions Tour 2027』国際大会の開催都市発表、東京カップ2027年8月に開催",
+                  "url": "https://www.negitaku.org/news/n-27900",
+                  "publisher": "Negitaku",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 87.2,
+          "score_label": "대중 관심도",
+          "public_interest_score": 87.2,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.8178235840512574,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:27.557101+00:00",
+              "keyword": "crazy raccoon",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 3,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "5c447f633dd0d8ebdb00",
+          "title": "MARINES FAN FEST 2026",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "千葉ロッテマリーンズ",
+              "country": "JP",
+              "traffic": "200+",
+              "traffic_floor": 200.0,
+              "started_at": "2026-10-19T09:00:00+00:00",
+              "collected_at": "2026-10-19T09:13:27.557024+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=JP",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "MARINES FAN FEST 2026",
+                  "url": "https://www.marines.co.jp/event/2026/fanfest/player.html",
+                  "publisher": "千葉ロッテマリーンズ",
+                  "published_at": null
+                },
+                {
+                  "title": "10/20(火)八木彬投手 損保ジャパン HIKESHI賞受賞記念グッズ受注販売開始",
+                  "url": "https://www.marines.co.jp/news/detail/202600943408.html",
+                  "publisher": "千葉ロッテマリーンズ",
+                  "published_at": null
+                },
+                {
+                  "title": "ロッテ・八木彬「しっかり火消しときました」 初代HIKESHI賞受賞記念グッズ販売（スポニチアネックス）",
+                  "url": "https://news.yahoo.co.jp/articles/266f65290ea762f75edc3f4465168f7a0040dd41",
+                  "publisher": "Yahoo!ニュース",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 78.8,
+          "score_label": "대중 관심도",
+          "public_interest_score": 78.8,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.6976745440681235,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 200.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:27.557024+00:00",
+              "keyword": "千葉ロッテマリーンズ",
+              "traffic": "200+",
+              "lower_bound": 200.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 4,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "334d7b8ec6d037fd3f80",
+          "title": "フリマクハロウィン",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "神戸 花火",
+              "country": "JP",
+              "traffic": "200+",
+              "traffic_floor": 200.0,
+              "started_at": "2026-10-19T09:00:00+00:00",
+              "collected_at": "2026-10-19T09:13:27.557046+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=JP",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "フリマクハロウィン",
+                  "url": "https://topics.smt.docomo.ne.jp/article/eventbank/region/eventbank-10650560?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch8",
+                  "publisher": "ｄメニューニュース",
+                  "published_at": null
+                },
+                {
+                  "title": "「神戸メリケンクリスマス」港の夜空に広がるドローンショー＆花火",
+                  "url": "https://www.fashion-press.net/news/152088",
+                  "publisher": "ファッションプレス",
+                  "published_at": null
+                },
+                {
+                  "title": "10月下旬～11月上旬に「みなとHANABI-2026」「加古川市花火大会」「稲美町花火大会」が開催予定！分散型花火大会",
+                  "url": "https://akashi-journal.com/matome/hanabi-bunsan2026autumn/",
+                  "publisher": "明石じゃーなる",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 78.8,
+          "score_label": "대중 관심도",
+          "public_interest_score": 78.8,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.6976745440681235,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 200.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:27.557046+00:00",
+              "keyword": "神戸 花火",
+              "traffic": "200+",
+              "lower_bound": 200.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 5,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        }
+      ],
+      "article_count": 40,
+      "raw_article_count": 40,
+      "trend_count": 10,
+      "publisher_count": 1,
+      "statuses": [
+        {
+          "source": "GDELT 기사 목록",
+          "state": "not_collected",
+          "count": 0,
+          "detail": "기존 저장 증거 재처리본이라 GDELT 재수집은 수행하지 않았습니다. 새로고침 시 GDELT를 우선 시도합니다.",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+          "collected_at": "2026-10-19T09:14:03.093874+00:00"
+        },
+        {
+          "source": "Google Trends",
+          "state": "ok",
+          "count": 10,
+          "detail": "현재 RSS 관측만 제공; 과거 검색량 복원·0값 대체 없음",
+          "url": "https://trends.google.com/trending/rss?geo=JP",
+          "collected_at": "2026-10-19T09:13:27.557156+00:00"
+        },
+        {
+          "source": "NHK RSS",
+          "state": "empty",
+          "count": 0,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+          "collected_at": "2026-10-19T09:14:03.073700+00:00"
+        },
+        {
+          "source": "朝日新聞 RSS",
+          "state": "ok",
+          "count": 40,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf",
+          "collected_at": "2026-10-19T09:14:00.822564+00:00"
+        }
+      ],
+      "clustering_method": "문자·단어 유사도",
+      "clustering_warning": null,
+      "rankable_count": 10,
+      "limited_coverage": true,
+      "ranking_basis": "public_interest_first",
+      "ranking_note": "검색 급상승을 주 순위 기준으로 사용하고 GDELT·현지 RSS 보도는 맥락·교차검증으로 표시합니다."
+    },
+    {
+      "country": "GB",
+      "name": "영국",
+      "flag": "🇬🇧",
+      "window_key": "2026-10-19:recent:5",
+      "window": {
+        "start": "2026-10-14T15:00:00+00:00",
+        "end": "2026-10-19T09:13:19.427422+00:00",
+        "reference": "2026-10-19",
+        "mode": "recent",
+        "days": 5,
+        "clipped_future": true
+      },
+      "collected_at": "2026-10-19T09:14:04.305269+00:00",
+      "cache_state": "live",
+      "issues": [
+        {
+          "id": "3f41e0480660bc3a1898",
+          "title": "School evacuated after 'explosive device' threat",
+          "articles": [],
+          "category": "사회·안전",
+          "trends": [
+            {
+              "keyword": "belfast live",
+              "country": "GB",
+              "traffic": "1000+",
+              "traffic_floor": 1000.0,
+              "started_at": "2026-10-19T08:50:00+00:00",
+              "collected_at": "2026-10-19T09:13:42.921550+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=GB",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "School evacuated after 'explosive device' threat",
+                  "url": "https://www.bbc.co.uk/news/articles/cw1m4pvdzzj0o",
+                  "publisher": "BBC",
+                  "published_at": null
+                },
+                {
+                  "title": "Live updates as NI schools evacuated due to 'threat' with parents told to collect children",
+                  "url": "https://www.belfastlive.co.uk/news/northern-ireland/live-updates-ni-schools-evacuated-34783937",
+                  "publisher": "Belfast Live",
+                  "published_at": null
+                },
+                {
+                  "title": "Police investigating email sent to schools this morning",
+                  "url": "https://belfastmedia.com/police-investigating-email-sent-to-schools-this-morning",
+                  "publisher": "Belfast Media Group",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 1000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:42.921550+00:00",
+              "keyword": "belfast live",
+              "traffic": "1000+",
+              "lower_bound": 1000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 1,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "b18efcab6685b9472b8e",
+          "title": "Man arrested after Australian MP struck by car as PM says politician was attacked",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "helen haines",
+              "country": "GB",
+              "traffic": "1000+",
+              "traffic_floor": 1000.0,
+              "started_at": "2026-10-19T08:30:00+00:00",
+              "collected_at": "2026-10-19T09:13:42.921583+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=GB",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Man arrested after Australian MP struck by car as PM says politician was attacked",
+                  "url": "https://www.bbc.co.uk/news/live/cklyj1477edjt",
+                  "publisher": "BBC",
+                  "published_at": null
+                },
+                {
+                  "title": "Independent MP Helen Haines injured in incident outside Wangaratta office in regional Victoria",
+                  "url": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
+                  "publisher": "The Guardian",
+                  "published_at": null
+                },
+                {
+                  "title": "Australian MP attacked outside her office, says PM",
+                  "url": "https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871",
+                  "publisher": "Sky News",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 1000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:42.921583+00:00",
+              "keyword": "helen haines",
+              "traffic": "1000+",
+              "lower_bound": 1000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 2,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "299f4871ec2a772d0665",
+          "title": "Burnham pledges ‘big changes’ to the way the welfare system works to tackle Neets crisis – UK politics live",
+          "articles": [
+            {
+              "id": "a7ef2e8539d58af0a5da",
+              "country": "GB",
+              "title": "Burnham pledges ‘big changes’ to the way the welfare system works to tackle Neets crisis – UK politics live",
+              "url": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
+              "publisher": "The Guardian",
+              "publisher_id": "www.theguardian.com",
+              "publisher_url": "https://www.theguardian.com/uk-news/rss",
+              "publisher_verified": true,
+              "published_at": "2026-10-19T09:03:26+00:00",
+              "collected_at": "2026-10-19T09:14:04.264005+00:00",
+              "source": "현지 공개 RSS"
+            }
+          ],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "welfare",
+              "country": "GB",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T08:10:00+00:00",
+              "collected_at": "2026-10-19T09:13:42.921599+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=GB",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+                  "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo",
+                  "publisher": "BBC",
+                  "published_at": null
+                },
+                {
+                  "title": "A blistering letter: Are Birmingham’s council officers to blame for our exempt accommodation crisis?",
+                  "url": "https://www.birminghamdispatch.co.uk/a-blistering-letter-are-birminghams-council-officers-to-blame-for-our-exempt-accommodation-crisis/",
+                  "publisher": "https://www.birminghamdispatch.co.uk/",
+                  "published_at": null
+                },
+                {
+                  "title": "The Big Housing Rip Off - Panorama on BBC One North East & Cumbria HD: full details and when it's on",
+                  "url": "https://www.tvguide.co.uk/schedule/866dfe8a-5f3a-5bf6-8cbb-a3cd3f1d6c10/the-big-housing-rip-off-panorama",
+                  "publisher": "TVGuide.co.uk",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "score": 93.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 93.0,
+          "media_attention_score": 72.3,
+          "metrics": {
+            "search": 0.8998157120437035,
+            "breadth": 1.0,
+            "coverage": 0.6309297535714575,
+            "diversity": 1.0,
+            "persistence": 0.6309297535714575
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": 1,
+            "diversity": 1,
+            "persistence": 1
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 1.0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 1,
+          "publisher_count": 1,
+          "coverage_change": null,
+          "news_series": [
+            {
+              "date": "2026-10-19",
+              "count": 1
+            }
+          ],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:42.921599+00:00",
+              "keyword": "welfare",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 3,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "c273155b0a1c22092e3c",
+          "title": "Team News: Fulham vs. Hull City injury, suspension list, predicted XIs",
+          "articles": [],
+          "category": "문화·스포츠",
+          "trends": [
+            {
+              "keyword": "hull city a.f.c.",
+              "country": "GB",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T07:40:00+00:00",
+              "collected_at": "2026-10-19T09:13:42.921615+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=GB",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Team News: Fulham vs. Hull City injury, suspension list, predicted XIs",
+                  "url": "https://www.sportsmole.co.uk/football/fulham/injury-news/team-news/fulham-vs-hull-injury-suspension-list-predicted-xis_606932.html",
+                  "publisher": "Sports Mole",
+                  "published_at": null
+                },
+                {
+                  "title": "Woeful Hull City deservedly beaten by bottom side Fulham at Craven Cottage",
+                  "url": "https://www.hulldailymail.co.uk/sport/football/match-reports/woeful-hull-city-deservedly-beaten-11201610",
+                  "publisher": "Hull Live",
+                  "published_at": null
+                },
+                {
+                  "title": "Hull City lineup vs. Fulham: Predicted XI for Premier League clash",
+                  "url": "https://www.sportsmole.co.uk/football/hull-city/predicted-lineups/belloumi-recall-mendy-blow-predicted-hull-lineup-vs-fulham_606931.html",
+                  "publisher": "Sports Mole",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 93.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 93.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.8998157120437035,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:42.921615+00:00",
+              "keyword": "hull city a.f.c.",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 4,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "cd6f9af22bd0c0336c17",
+          "title": "Exclusive | At Davos, Kimberly Guilfoyle Boasted of Private Jet Trips, Luxury Stays",
+          "articles": [],
+          "category": "정치·정책",
+          "trends": [
+            {
+              "keyword": "yahoo mail uk",
+              "country": "GB",
+              "traffic": "200+",
+              "traffic_floor": 200.0,
+              "started_at": "2026-10-19T08:50:00+00:00",
+              "collected_at": "2026-10-19T09:13:42.921565+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=GB",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Exclusive | At Davos, Kimberly Guilfoyle Boasted of Private Jet Trips, Luxury Stays",
+                  "url": "https://www.wsj.com/politics/policy/at-davos-kimberly-guilfoyle-boasted-of-private-jet-trips-luxury-stays-d6602442",
+                  "publisher": "WSJ",
+                  "published_at": null
+                },
+                {
+                  "title": "All the president’s women: a familiar downward trajectory on Trump’s team",
+                  "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-female-cabinet-officials-departures",
+                  "publisher": "The Guardian",
+                  "published_at": null
+                },
+                {
+                  "title": "Opinion | In defense of Kimberly Guilfoyle",
+                  "url": "https://www.washingtonpost.com/opinions/2026/10/18/guilfoyles-firing-raises-questions-about-trumps-ethics/",
+                  "publisher": "The Washington Post",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 83.7,
+          "score_label": "대중 관심도",
+          "public_interest_score": 83.7,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.7676209501511251,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 200.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:42.921565+00:00",
+              "keyword": "yahoo mail uk",
+              "traffic": "200+",
+              "lower_bound": 200.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 5,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        }
+      ],
+      "article_count": 71,
+      "raw_article_count": 75,
+      "trend_count": 10,
+      "publisher_count": 2,
+      "statuses": [
+        {
+          "source": "GDELT 기사 목록",
+          "state": "not_collected",
+          "count": 0,
+          "detail": "기존 저장 증거 재처리본이라 GDELT 재수집은 수행하지 않았습니다. 새로고침 시 GDELT를 우선 시도합니다.",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+          "collected_at": "2026-10-19T09:14:04.305269+00:00"
+        },
+        {
+          "source": "Google Trends",
+          "state": "ok",
+          "count": 10,
+          "detail": "현재 RSS 관측만 제공; 과거 검색량 복원·0값 대체 없음",
+          "url": "https://trends.google.com/trending/rss?geo=GB",
+          "collected_at": "2026-10-19T09:13:42.921664+00:00"
+        },
+        {
+          "source": "BBC RSS",
+          "state": "ok",
+          "count": 36,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+          "collected_at": "2026-10-19T09:14:00.716104+00:00"
+        },
+        {
+          "source": "The Guardian RSS",
+          "state": "ok",
+          "count": 39,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://www.theguardian.com/uk-news/rss",
+          "collected_at": "2026-10-19T09:14:04.265252+00:00"
+        }
+      ],
+      "clustering_method": "문자·단어 유사도",
+      "clustering_warning": null,
+      "rankable_count": 10,
+      "limited_coverage": true,
+      "ranking_basis": "public_interest_first",
+      "ranking_note": "검색 급상승을 주 순위 기준으로 사용하고 GDELT·현지 RSS 보도는 맥락·교차검증으로 표시합니다."
+    },
+    {
+      "country": "DE",
+      "name": "독일",
+      "flag": "🇩🇪",
+      "window_key": "2026-10-19:recent:5",
+      "window": {
+        "start": "2026-10-14T15:00:00+00:00",
+        "end": "2026-10-19T09:13:19.427422+00:00",
+        "reference": "2026-10-19",
+        "mode": "recent",
+        "days": 5,
+        "clipped_future": true
+      },
+      "collected_at": "2026-10-19T09:14:09.711505+00:00",
+      "cache_state": "live",
+      "issues": [
+        {
+          "id": "78baeff68960a41dff15",
+          "title": "Schock für Familie aus Mörlenbach: Nachbar reißt mit Bagger Hauswand ab - Fassade stürzt ein",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "nachbar",
+              "country": "DE",
+              "traffic": "5000+",
+              "traffic_floor": 5000.0,
+              "started_at": "2026-10-19T08:20:00+00:00",
+              "collected_at": "2026-10-19T09:13:43.264725+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=DE",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Schock für Familie aus Mörlenbach: Nachbar reißt mit Bagger Hauswand ab - Fassade stürzt ein",
+                  "url": "https://www.hessenschau.de/panorama/moerlenbach-bonsweiher-mann-reisst-mit-bagger-hauswand-seiner-nachbarn-ein-v1,wohnhaus-beschaedigt-bagger-100.html",
+                  "publisher": "hessenschau.de",
+                  "published_at": null
+                },
+                {
+                  "title": "Der Tag: Nachbar reißt mit Bagger Familienhaus-Fassade ein",
+                  "url": "https://www.n-tv.de/der_tag/Nachbar-reisst-mit-Bagger-Familienhaus-Fassade-ein-id31432891.html",
+                  "publisher": "n-tv.de",
+                  "published_at": null
+                },
+                {
+                  "title": "Schock in Hessen: Baggerfahrer reißt Loch in Haus, während Familie drin ist",
+                  "url": "https://www.bild.de/regional/hessen/schock-in-hessen-baggerfahrer-reisst-loch-in-haus-waehrend-familie-drin-ist-6ad4c56a199dc15f1abd85ce",
+                  "publisher": "BILD",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 5000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:43.264725+00:00",
+              "keyword": "nachbar",
+              "traffic": "5000+",
+              "lower_bound": 5000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 1,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "ec4e5ce043f486e2e613",
+          "title": "Jugendliche finden tragisches Schicksal nach Unfall in Österreich – Großvater spricht",
+          "articles": [],
+          "category": "국제·안보",
+          "trends": [
+            {
+              "keyword": "salzburg",
+              "country": "DE",
+              "traffic": "5000+",
+              "traffic_floor": 5000.0,
+              "started_at": "2026-10-19T08:00:00+00:00",
+              "collected_at": "2026-10-19T09:13:43.264741+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=DE",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Jugendliche finden tragisches Schicksal nach Unfall in Österreich – Großvater spricht",
+                  "url": "https://www.t-online.de/nachrichten/panorama/ungluecke/id_101487162/oesterreich-entsetzen-nach-unfall-bei-salzburg-zwei-jugendliche-tot.html",
+                  "publisher": "T-Online",
+                  "published_at": null
+                },
+                {
+                  "title": "\"Über 100 Meter lange Trümmerspur\": Experte Gerhard Kronreif über enorme Wucht bei Unfall mit zwei jungen Todesopfern in Nußdorf",
+                  "url": "https://www.salzburg24.at/news/salzburg/flachgau/ueber-100-meter-lange-truemmerspur-experte-gerhard-kronreif-ueber-enorme-wucht-bei-unfall-mit-zwei-jungen-todesopfern-in-nussdorf-art-341625",
+                  "publisher": "salzburg24",
+                  "published_at": null
+                },
+                {
+                  "title": "Jugendliche verstorben - Schock nach Todesfahrt: „Marie war so lebensfroh“",
+                  "url": "https://www.krone.at/4340052",
+                  "publisher": "Kronen Zeitung",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 5000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:43.264741+00:00",
+              "keyword": "salzburg",
+              "traffic": "5000+",
+              "lower_bound": 5000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 2,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "78868c685813848cc632",
+          "title": "Medizinischer Notfall: Rettungshubschrauber landet mitten auf Heilbronner Kreuzung",
+          "articles": [],
+          "category": "사회·안전",
+          "trends": [
+            {
+              "keyword": "heilbronn",
+              "country": "DE",
+              "traffic": "2000+",
+              "traffic_floor": 2000.0,
+              "started_at": "2026-10-19T08:30:00+00:00",
+              "collected_at": "2026-10-19T09:13:43.264718+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=DE",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Medizinischer Notfall: Rettungshubschrauber landet mitten auf Heilbronner Kreuzung",
+                  "url": "https://www.stimme.de/heilbronn/landkreis-heilbronn/hubschrauber-landung-kreuzung-boeckingen-einsatz-medizinischer-grund-notfall-notarzt-sperrung-polizei-art-5224685",
+                  "publisher": "Stimme",
+                  "published_at": null
+                },
+                {
+                  "title": "Hubschrauber landet mitten auf Heilbronner Kreuzung – Polizei klärt Unfallgerüchte auf",
+                  "url": "https://www.echo24.de/heilbronn/hubschrauber-landet-mitten-auf-heilbronner-kreuzung-polizei-klaert-unfallgeruechte-auf-94547327.html",
+                  "publisher": "Echo24.de",
+                  "published_at": null
+                },
+                {
+                  "title": "Rettungshubschrauber landet mitten auf Heilbronner Kreuzung",
+                  "url": "https://www.stimme.de/bilder/rettungshubschrauber-landet-mitten-auf-heilbronner-kreuzung-gal-149660/",
+                  "publisher": "Stimme",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 92.5,
+          "score_label": "대중 관심도",
+          "public_interest_score": 92.5,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.8924564337467848,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 2000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:43.264718+00:00",
+              "keyword": "heilbronn",
+              "traffic": "2000+",
+              "lower_bound": 2000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 3,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "ef497c1676c30759109b",
+          "title": "Elch stundenlang auf A13 in Brandenburg unterwegs: Polizei sperrt Autobahn",
+          "articles": [],
+          "category": "사회·안전",
+          "trends": [
+            {
+              "keyword": "a13",
+              "country": "DE",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T09:00:00+00:00",
+              "collected_at": "2026-10-19T09:13:43.264653+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=DE",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Elch stundenlang auf A13 in Brandenburg unterwegs: Polizei sperrt Autobahn",
+                  "url": "https://www.bild.de/regional/brandenburg/elch-stundenlang-auf-a13-in-brandenburg-unterwegs-polizei-sperrt-autobahn-6ad51dcf51e5094f7a5710c7",
+                  "publisher": "BILD",
+                  "published_at": null
+                },
+                {
+                  "title": "Elch verursacht auf A13 Beinah-Unfall",
+                  "url": "https://www.rbb24.de/panorama/beitrag/2026/10/elch-autobahn-brandenburg-a13.html",
+                  "publisher": "rbb24.de",
+                  "published_at": null
+                },
+                {
+                  "title": "Elch auf der A13 bei Groß Köris sorgt für Vollsperrung",
+                  "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/dahme-spreewald/329351/elch-auf-der-a13-bei-gross-koeris-sorgt-fuer-vollsperrung.html",
+                  "publisher": "NIEDERLAUSITZ aktuell",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 81.1,
+          "score_label": "대중 관심도",
+          "public_interest_score": 81.1,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.7298719192563993,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:43.264653+00:00",
+              "keyword": "a13",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 4,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "514796fd120a2a25a74a",
+          "title": "Maximilian wird für Deniz und Charlie zur unberechenbaren Gefahr",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "alles was zählt",
+              "country": "DE",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T08:20:00+00:00",
+              "collected_at": "2026-10-19T09:13:43.264733+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=DE",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Maximilian wird für Deniz und Charlie zur unberechenbaren Gefahr",
+                  "url": "https://www.rtl.de/sendungen/alles-was-zaehlt/awz-vorschau-heute-auf-rtl-maximilian-wird-fuer-deniz-und-charlie-zur-unberechenbaren-gefahr-id31422644.html",
+                  "publisher": "RTL.de",
+                  "published_at": null
+                },
+                {
+                  "title": "Alles was zählt am 19. Oktober 2026 um 09:20 Uhr auf RTL Passion",
+                  "url": "https://www.tvmovie.de/tv/alles-was-zaehlt-epg-234633208",
+                  "publisher": "TV Movie",
+                  "published_at": null
+                },
+                {
+                  "title": "AWZ-Spoiler Folge 5061 am 19.10.26 bei RTL+: Maximilian droht Deniz - er soll Essen verlassen",
+                  "url": "https://www.swp.de/unterhaltung/tv/alles-was-zaehlt-seifenoper-awz-spoiler-folge-5061-am-191026-bei-rtl-maximilian-droht-deniz-er-soll-essen-verlassen-79584472.html?utm_source=newsadoo",
+                  "publisher": "swp.de",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 81.1,
+          "score_label": "대중 관심도",
+          "public_interest_score": 81.1,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.7298719192563993,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:43.264733+00:00",
+              "keyword": "alles was zählt",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 5,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        }
+      ],
+      "article_count": 70,
+      "raw_article_count": 70,
+      "trend_count": 10,
+      "publisher_count": 2,
+      "statuses": [
+        {
+          "source": "GDELT 기사 목록",
+          "state": "not_collected",
+          "count": 0,
+          "detail": "기존 저장 증거 재처리본이라 GDELT 재수집은 수행하지 않았습니다. 새로고침 시 GDELT를 우선 시도합니다.",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+          "collected_at": "2026-10-19T09:14:09.711505+00:00"
+        },
+        {
+          "source": "Google Trends",
+          "state": "ok",
+          "count": 10,
+          "detail": "현재 RSS 관측만 제공; 과거 검색량 복원·0값 대체 없음",
+          "url": "https://trends.google.com/trending/rss?geo=DE",
+          "collected_at": "2026-10-19T09:13:43.264819+00:00"
+        },
+        {
+          "source": "tagesschau RSS",
+          "state": "ok",
+          "count": 40,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://www.tagesschau.de/xml/rss2",
+          "collected_at": "2026-10-19T09:14:04.856304+00:00"
+        },
+        {
+          "source": "DER SPIEGEL RSS",
+          "state": "ok",
+          "count": 30,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://www.spiegel.de/schlagzeilen/index.rss",
+          "collected_at": "2026-10-19T09:14:09.675698+00:00"
+        }
+      ],
+      "clustering_method": "문자·단어 유사도",
+      "clustering_warning": null,
+      "rankable_count": 13,
+      "limited_coverage": true,
+      "ranking_basis": "public_interest_first",
+      "ranking_note": "검색 급상승을 주 순위 기준으로 사용하고 GDELT·현지 RSS 보도는 맥락·교차검증으로 표시합니다."
+    },
+    {
+      "country": "FR",
+      "name": "프랑스",
+      "flag": "🇫🇷",
+      "window_key": "2026-10-19:recent:5",
+      "window": {
+        "start": "2026-10-14T15:00:00+00:00",
+        "end": "2026-10-19T09:13:19.427422+00:00",
+        "reference": "2026-10-19",
+        "mode": "recent",
+        "days": 5,
+        "clipped_future": true
+      },
+      "collected_at": "2026-10-19T09:14:11.916572+00:00",
+      "cache_state": "live",
+      "issues": [
+        {
+          "id": "9a53bd84166abb20e878",
+          "title": "Elina Svitolina annonce sa séparation avec Gaël Monfils",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "elina svitolina",
+              "country": "FR",
+              "traffic": "10000+",
+              "traffic_floor": 10000.0,
+              "started_at": "2026-10-19T08:00:00+00:00",
+              "collected_at": "2026-10-19T09:13:47.529326+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=FR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Elina Svitolina annonce sa séparation avec Gaël Monfils",
+                  "url": "https://www.eurosport.fr/tennis/elina-svitolina-et-gael-monfils-annoncent-leur-separation_sto23347043/story.shtml",
+                  "publisher": "Eurosport",
+                  "published_at": null
+                },
+                {
+                  "title": "Monfils et Svitolina, c'est fini ! : Sports - Orange",
+                  "url": "https://sports.orange.fr/tennis/article/monfils-et-svitolina-c-est-fini-exclu-CNT000002t9Psl.html",
+                  "publisher": "Sports - Orange",
+                  "published_at": null
+                },
+                {
+                  "title": "Tennis: \"Notre mariage touche à sa fin\", Elina Svitolina annonce son divorce avec Gaël Monfils",
+                  "url": "https://rmcsport.bfmtv.com/football/serie-a/tennis-notre-mariage-touche-a-sa-fin-elina-svitolina-annonce-son-divorce-avec-gael-monfils_AV-202610190274.html",
+                  "publisher": "RMC Sport",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 10000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:47.529326+00:00",
+              "keyword": "elina svitolina",
+              "traffic": "10000+",
+              "lower_bound": 10000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 1,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "fb0bd120d259c2dbef6e",
+          "title": "« Je crains la mort de lycéens » : l'avertissement de Bally Bagayoko avant les manifestations à Paris",
+          "articles": [],
+          "category": "사회·안전",
+          "trends": [
+            {
+              "keyword": "bally bagayoko",
+              "country": "FR",
+              "traffic": "10000+",
+              "traffic_floor": 10000.0,
+              "started_at": "2026-10-19T07:10:00+00:00",
+              "collected_at": "2026-10-19T09:13:47.529372+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=FR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "« Je crains la mort de lycéens » : l'avertissement de Bally Bagayoko avant les manifestations à Paris",
+                  "url": "https://actu.fr/ile-de-france/saint-denis_93066/je-crains-la-mort-de-lyceens-l-avertissement-de-bally-bagayoko-avant-les-manifestations-a-paris_64937454.html",
+                  "publisher": "Actu.fr",
+                  "published_at": null
+                },
+                {
+                  "title": "Manifestations du 17 octobre : pour Bally Bagayoko (LFI), « la révolution prend forme »",
+                  "url": "https://www.letelegramme.fr/france/manifestations-du-17-octobre-pour-bally-bagayoko-lfi-la-revolution-prend-forme-7140473.php",
+                  "publisher": "Le Télégramme",
+                  "published_at": null
+                },
+                {
+                  "title": "Bally Bagayoko, maire de Saint-Denis et père dévoué : confidences sur sa famille",
+                  "url": "https://www.ohmymag.com/people/actu-people/art185645-bally-bagayoko-maire-de-saint-denis-et-pere-devoue-confidences-sur-sa-famille.html",
+                  "publisher": "Ohmymag",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 100.0,
+          "score_label": "대중 관심도",
+          "public_interest_score": 100.0,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 1.0,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 10000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:47.529372+00:00",
+              "keyword": "bally bagayoko",
+              "traffic": "10000+",
+              "lower_bound": 10000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 2,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "0714dd085e06e9728320",
+          "title": "Les émeutes font chuter Paris et les autres places européennes",
+          "articles": [],
+          "category": "기타",
+          "trends": [
+            {
+              "keyword": "cac 40",
+              "country": "FR",
+              "traffic": "5000+",
+              "traffic_floor": 5000.0,
+              "started_at": "2026-10-19T07:30:00+00:00",
+              "collected_at": "2026-10-19T09:13:47.529342+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=FR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "Les émeutes font chuter Paris et les autres places européennes",
+                  "url": "https://www.boursorama.com/bourse/actualites/les-emeutes-font-chuter-paris-et-les-autres-places-europeennes-dadc758b8429cec1403d69e2db15cb56",
+                  "publisher": "Boursorama",
+                  "published_at": null
+                },
+                {
+                  "title": "L'Europe recule, la France sous pression après les violences urbaines",
+                  "url": "https://ch.zonebourse.com/actualite-bourse/l-europe-recule-la-france-sous-pression-apres-les-violences-urbaines-ce785cdbd98ef022",
+                  "publisher": "Zonebourse Suisse",
+                  "published_at": null
+                },
+                {
+                  "title": "Bourse de Paris: la dette française sous tension après les violences du week-end",
+                  "url": "https://actu.orange.fr/economie/bourse-de-paris-la-dette-francaise-sous-tension-apres-les-violences-du-week-end-CNT000002t9QcN.html",
+                  "publisher": "Orange Actualités",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 94.7,
+          "score_label": "대중 관심도",
+          "public_interest_score": 94.7,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.9247541737480336,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 5000.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:47.529342+00:00",
+              "keyword": "cac 40",
+              "traffic": "5000+",
+              "lower_bound": 5000.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 3,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "89c9f0c039265a6ecd6f",
+          "title": "« Tant que le brasero est chaud on restera ! » : les agriculteurs bloquent l'A47 au sud de Lyon, circulation coupée dans les deux sens",
+          "articles": [],
+          "category": "사회·안전",
+          "trends": [
+            {
+              "keyword": "tracteur agricole",
+              "country": "FR",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T08:50:00+00:00",
+              "collected_at": "2026-10-19T09:13:47.529281+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=FR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "« Tant que le brasero est chaud on restera ! » : les agriculteurs bloquent l'A47 au sud de Lyon, circulation coupée dans les deux sens",
+                  "url": "https://www.leprogres.fr/transport/2026/10/19/les-agriculteurs-manifestent-au-sud-de-lyon-le-pont-de-givors-bloque",
+                  "publisher": "Le Progrès",
+                  "published_at": null
+                },
+                {
+                  "title": "L'A47 bloquée entre Saint-Etienne et Lyon par les agriculteurs : ces secteurs à éviter",
+                  "url": "https://actu.fr/auvergne-rhone-alpes/saint-etienne_42218/l-a47-bloquee-entre-saint-etienne-et-lyon-par-les-agriculteurs-ces-secteurs-a-eviter_64943097.html",
+                  "publisher": "Actu.fr",
+                  "published_at": null
+                },
+                {
+                  "title": "Manifestation : A47 coupée à Givors, accès fermés vers Saint-Étienne depuis l’A7 et l’A46 ce lundi",
+                  "url": "https://radio.vinci-autoroutes.com/article/manifestation-a47-coupee-a-givors-acces-fermes-vers-saint-etienne-depuis-l-a7-et-l-a46-ce-lundi-19361",
+                  "publisher": "Radio VINCI Autoroutes",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 77.2,
+          "score_label": "대중 관심도",
+          "public_interest_score": 77.2,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.674952103633843,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:47.529281+00:00",
+              "keyword": "tracteur agricole",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 4,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        },
+        {
+          "id": "2f8a0a5c3ae6fa4400bf",
+          "title": "« Le pire reste à venir » : pourquoi le marché immobilier parisien risque de s’enfoncer dans un long hiver",
+          "articles": [],
+          "category": "경제·생활",
+          "trends": [
+            {
+              "keyword": "marché immobilier français",
+              "country": "FR",
+              "traffic": "500+",
+              "traffic_floor": 500.0,
+              "started_at": "2026-10-19T08:10:00+00:00",
+              "collected_at": "2026-10-19T09:13:47.529314+00:00",
+              "source": "Google Trends",
+              "url": "https://trends.google.com/trending?geo=FR",
+              "related_queries": [],
+              "related_news": [
+                {
+                  "title": "« Le pire reste à venir » : pourquoi le marché immobilier parisien risque de s’enfoncer dans un long hiver",
+                  "url": "https://www.leparisien.fr/immobilier/le-pire-reste-a-venir-pourquoi-le-marche-immobilier-parisien-risque-de-senfoncer-dans-un-long-hiver-19-10-2026-VDXLR3DB65GW7HDOJYREEIBTPU.php",
+                  "publisher": "Le Parisien",
+                  "published_at": null
+                },
+                {
+                  "title": "« Et toi, tu as pu négocier un peu ? » : la discussion sur l’immobilier reste un incontournable",
+                  "url": "https://www.ouest-france.fr/economie/immobilier/et-toi-tu-as-pu-negocier-un-peu-la-discussion-sur-limmobilier-reste-un-incontournable-322542ae-c707-11f1-9522-1f9ae0711c0a",
+                  "publisher": "Ouest-France",
+                  "published_at": null
+                },
+                {
+                  "title": "Immobilier : les vendeurs contraints de revoir leurs prix à la baisse, avec près de 5 % de remise en moyenne",
+                  "url": "https://www.boursorama.com/immobilier/actualites/immobilier-les-vendeurs-contraints-de-revoir-leurs-prix-a-la-baisse-avec-pres-de-5-de-remise-en-moyenne-9bf238cb08d4ec86c343b4714a357199",
+                  "publisher": "Boursorama",
+                  "published_at": null
+                }
+              ]
+            }
+          ],
+          "trend_only": true,
+          "score": 77.2,
+          "score_label": "대중 관심도",
+          "public_interest_score": 77.2,
+          "media_attention_score": null,
+          "metrics": {
+            "search": 0.674952103633843,
+            "breadth": 1.0,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "raw_metrics": {
+            "search": 500.0,
+            "breadth": 1,
+            "coverage": null,
+            "diversity": null,
+            "persistence": null
+          },
+          "available_weight": 1.0,
+          "public_weight_available": 1.0,
+          "media_weight_available": 0,
+          "ranking_basis": "public_interest",
+          "confidence": "검색 신호",
+          "article_count": 0,
+          "publisher_count": 0,
+          "coverage_change": null,
+          "news_series": [],
+          "search_series": [
+            {
+              "observed_at": "2026-10-19T09:13:47.529314+00:00",
+              "keyword": "marché immobilier français",
+              "traffic": "500+",
+              "lower_bound": 500.0
+            }
+          ],
+          "tags": [
+            "검색 급상승"
+          ],
+          "rank": 5,
+          "summary": {
+            "status": "disabled",
+            "reason": "API 키 없음 · AI 한국어 요약 비활성화"
+          }
+        }
+      ],
+      "article_count": 47,
+      "raw_article_count": 47,
+      "trend_count": 10,
+      "publisher_count": 2,
+      "statuses": [
+        {
+          "source": "GDELT 기사 목록",
+          "state": "not_collected",
+          "count": 0,
+          "detail": "기존 저장 증거 재처리본이라 GDELT 재수집은 수행하지 않았습니다. 새로고침 시 GDELT를 우선 시도합니다.",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+          "collected_at": "2026-10-19T09:14:11.916572+00:00"
+        },
+        {
+          "source": "Google Trends",
+          "state": "ok",
+          "count": 10,
+          "detail": "현재 RSS 관측만 제공; 과거 검색량 복원·0값 대체 없음",
+          "url": "https://trends.google.com/trending/rss?geo=FR",
+          "collected_at": "2026-10-19T09:13:47.529412+00:00"
+        },
+        {
+          "source": "Le Monde RSS",
+          "state": "ok",
+          "count": 16,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "collected_at": "2026-10-19T09:14:06.447683+00:00"
+        },
+        {
+          "source": "franceinfo RSS",
+          "state": "ok",
+          "count": 31,
+          "detail": "공개 RSS 대체 수집 · 날짜/링크 검증 제외 0건",
+          "url": "https://www.francetvinfo.fr/titres.rss",
+          "collected_at": "2026-10-19T09:14:11.881823+00:00"
+        }
+      ],
+      "clustering_method": "문자·단어 유사도",
+      "clustering_warning": null,
+      "rankable_count": 12,
+      "limited_coverage": true,
+      "ranking_basis": "public_interest_first",
+      "ranking_note": "검색 급상승을 주 순위 기준으로 사용하고 GDELT·현지 RSS 보도는 맥락·교차검증으로 표시합니다."
+    }
+  ],
+  "common": [],
+  "data_kind": "live_collected",
+  "version": "1.1.0"
+}
