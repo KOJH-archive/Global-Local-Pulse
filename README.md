@@ -109,5 +109,11 @@ docker run --rm -p 8501:8501 --env-file .env -v pulse-data:/app/data global-loca
 
 API 키가 없으면 `--env-file .env`를 생략하세요. 운영 환경에서는 영속 볼륨을 사용해야 합니다. PostgreSQL/Supabase 전환과 자동 예약 수집은 미구현입니다. 현재 소스는 [GitHub 저장소](https://github.com/KOJH-archive/Global-Local-Pulse)에 포함되어 있지만, GitHub 자체는 Python/Streamlit 서버를 상시 실행하지 않습니다. Streamlit Cloud, Codespaces, Docker 호스트 또는 별도 Python 서버에서 실행해야 합니다.
 
+### GitHub Actions와 Pages
+
+`.github/workflows/ci.yml`은 `main` 푸시·Pull Request마다 테스트와 Python 컴파일 검사를 실행합니다. `.github/workflows/refresh-pages.yml`은 6시간마다(또는 Actions의 **Run workflow**로 수동) 실제 데이터를 수집하고 `dist/` 정적 대시보드를 GitHub Pages에 배포합니다. 이 페이지는 수집 시점의 스냅샷이며 Streamlit처럼 브라우저에서 재수집하지 않습니다.
+
+처음 한 번 저장소 **Settings → Pages → Build and deployment → Source: GitHub Actions**를 선택하세요. AI 요약을 사용하려면 저장소 **Settings → Secrets and variables → Actions**에 `OPENAI_API_KEY`를 등록합니다. Actions의 `with_ai`를 켜지 않으면 키가 있어도 요약을 호출하지 않습니다. Pages 배포가 완료되면 보통 `https://kojh-archive.github.io/Global-Local-Pulse/`에서 열 수 있습니다.
+
 검증 결과와 미완료 항목은 `DEVELOPMENT_REPORT.md`에서 확인하세요.
 
