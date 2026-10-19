@@ -1,0 +1,80 @@
+name: Refresh and publish dashboard
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: '최근 조회 일수'
+        required: false
+        default: '5'
+        type: string
+      with_ai:
+        description: 'OPENAI_API_KEY가 있을 때 한국어 요약 생성'
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+      ENABLE_EMBEDDINGS: ${{ secrets.ENABLE_EMBEDDINGS }}
+      EMBEDDING_MODEL: ${{ secrets.EMBEDDING_MODEL }}
+      MEDIACLOUD_API_KEY: ${{ secrets.MEDIACLOUD_API_KEY }}
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Collect current data
+        shell: bash
+        run: |
+          days='${{ inputs.days || '5' }}'
+          if ! [[ "$days" =~ ^[0-9]+$ ]] || [ "$days" -lt 1 ] || [ "$days" -gt 14 ]; then
+            echo "days must be an integer from 1 to 14" >&2
+            exit 1
+          fi
+          args=(--force --days "$days" --output data/latest.json)
+          if [ '${{ inputs.with_ai || 'false' }}' = 'true' ] && [ -n "$OPENAI_API_KEY" ]; then
+            args+=(--ai)
+          fi
+          python scripts/refresh.py "${args[@]}"
+
+      - name: Build static dashboard
+        run: python scripts/export_web.py
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
